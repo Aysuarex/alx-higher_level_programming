@@ -89,4 +89,4 @@ Prototypes for functions written in this project:
 
 * **13. ByteCode -> Python #1**
   * [102-magic_calculation.py](./103-magic_calculation.py): Python function matching exactly
-  a bytecode provided by Holberton School.
+  [a bytecode](https://docs.python.org/3.4/library/dis.html) provided by ALX.
