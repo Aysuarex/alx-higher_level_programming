@@ -106,7 +106,7 @@ Prototypes for functions written in this project:
   * Without importing modules.
 
 * **11. Multiply by using map**
-  * [11-mutiply_list_map.py](./11-multiply_list_map.py): Python function that returns a
+  * [11-multiply_list_map.py](./11-multiply_list_map.py): Python function that returns a
   list with all values multiplied by a number using `map`.
   * Returns a new list of the same length as `my_list` with each value
   multiplied by `number`.
