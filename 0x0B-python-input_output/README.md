@@ -6,7 +6,7 @@ serialize and deserialize objects with JSON.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. Provided by ALX.
 
 ## Function Prototypes :floppy_disk:
 
