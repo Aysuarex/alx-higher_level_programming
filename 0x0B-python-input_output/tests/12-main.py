@@ -1,13 +1,16 @@
 #!/usr/bin/python3
-Student = __import__('12-student').Student
+"""
+14-main
+"""
+pascal_triangle = __import__('14-pascal_triangle').pascal_triangle
 
-student_1 = Student("John", "Doe", 23)
-student_2 = Student("Bob", "Dylan", 27)
+def print_triangle(triangle):
+    """
+    Print the triangle
+    """
+    for row in triangle:
+        print("[{}]".format(",".join([str(x) for x in row])))
 
-j_student_1 = student_1.to_json()
-j_student_2 = student_2.to_json(['first_name', 'age'])
-j_student_3 = student_2.to_json(['middle_name', 'age'])
 
-print(j_student_1)
-print(j_student_2)
-print(j_student_3)
+if __name__ == "__main__":
+    print_triangle(pascal_triangle(5))
