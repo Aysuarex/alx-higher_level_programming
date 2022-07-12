@@ -15,6 +15,7 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 * [0x09. Python - Everything is object](./0x09-python-everything_is_object)
 * [0x0A. Python - Inheritance](./0x0A-python-inheritance)
 * [0x0B. Python - Input/Output](./0x0B-python-input_output)
+* [0x0C. Python - Almost A Circle](./0x0B-python-almost_a_circle)
 
 
 
