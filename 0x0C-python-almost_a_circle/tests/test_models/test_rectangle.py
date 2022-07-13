@@ -25,8 +25,8 @@ class TestRectangle(unittest.TestCase):
             Rectangle(10, "2")
 
     def test_ids(self):
-        self.assertEqual(self.g1.id, 74)
-        self.assertEqual(self.g2.id, 75)
+        self.assertEqual(self.g1.id, 88)
+        self.assertEqual(self.g2.id, 89)
         self.assertEqual(self.g3.id, 12)
 
     def test_width(self):
