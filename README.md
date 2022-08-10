@@ -16,7 +16,7 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 * [0x0A. Python - Inheritance](./0x0A-python-inheritance)
 * [0x0B. Python - Input/Output](./0x0B-python-input_output)
 * [0x0C. Python - Almost A Circle](./0x0C-python-almost_a_circle)
-
+* [0x0D. SQL - Introduction](./0x0D-SQL_introduction)
 
 
 ## Author :
