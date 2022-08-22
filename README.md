@@ -1,6 +1,6 @@
 # Higher-level programming - Python
 
-This repository contains programs written for the Higher-level programming track at the ALX Software Engineering Program. In these projects I am currently Python.
+This repository contains programs written for the Higher-level programming track at the ALX Software Engineering Program. In these projects, I learnt Python & SQL, and I also made use of concepts learnt.
 Simultaneously, I continued to reinforce and expand my skills in C and shell scripting. The specific list of projects contained follows:
 
 * [0x00. Python - Hello, World](./0x00-python-hello_world)
@@ -19,7 +19,7 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 * [0x0D. SQL - Introduction](./0x0D-SQL_introduction)
 * [0x0E. SQL - More Queries](./0x0E-SQL_more_queries)
 
-## Author :
+**## Author :
 * **[Suara Ayomide](https://twitter.com/Aysuarex)** <[Aysuarex](https://github.com/Aysuarex)>
 
 ## Acknowledgements :pray:
@@ -31,4 +31,6 @@ All work contained in this project was completed as part of the curriculum for t
   <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
     alt="ALX Africa Logo"
   >
-  </p>
+  </p>**
+
+[.](https://github.com/mecomonteshbtn/Higher_level_programming)
