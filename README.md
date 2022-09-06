@@ -19,6 +19,7 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 * [0x0D. SQL - Introduction](./0x0D-SQL_introduction)
 * [0x0E. SQL - More Queries](./0x0E-SQL_more_queries)
 * [0x12. JavaScript - Warm up](./0x12-javascript-warm_up)
+* [0x13. JavaScript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures)
 
 ## Author :
 * **[Suara Ayomide](https://twitter.com/Aysuarex)** <[Aysuarex](https://github.com/Aysuarex)>
