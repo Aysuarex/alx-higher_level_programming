@@ -1,12 +1,12 @@
 # Javascript - Objects, Scopes and Closures
 
-In this second Holberton JavaScript project I dived into the infamously fun
+In this second ALX JavaScript project I dived into the infamously fun
 aspects of the language - scope, closures and `this`. I practiced working with
 objects and ES6-style classes.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files. Provided by ALX.
 
 ## Function Prototypes :floppy_disk:
 
