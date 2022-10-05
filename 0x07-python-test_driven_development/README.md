@@ -84,7 +84,7 @@ Prototypes for functions written in this project:
 * **5. Max integer - Unittest**
   * [tests/6-max_integer_test.py](./tests/6-max_integer_text.py): Python class/script
   that runs unittests for the function `def max_integer(list=[]):`
-  (provided by Holberton School).
+  (provided by ALX).
 
 * **6. Matrix multiplication**
   * [100-matrix_mul.py](./100-matrix_mul.py): Python function that multiplies two matrices.
