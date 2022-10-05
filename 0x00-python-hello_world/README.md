@@ -71,7 +71,7 @@ Prototypes for functions written in this project:
   * Returns `0` if there is no cycle and `1` if there is.
   * Helper files:
     * [linked_lists.c](./linked_lists.c): C functions handling linked lists for testing
-    [10-check_cycle.c](./10-check_cycle.c) (provided by Holberton School).
+    [10-check_cycle.c](./10-check_cycle.c) (provided by ).
     * [lists.h](./lists.h): Header file containing definitions and prototypes for
     all types and functions used in [linked_lists.c](./linked_lists.c) and
     [10-check_cycle.c](./10-check_cycle.c).
