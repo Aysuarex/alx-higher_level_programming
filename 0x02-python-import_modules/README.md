@@ -63,7 +63,7 @@ modules in Python. I further practiced using the builtin function
 
 * **8. ByteCode -> Python #3**
   * [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
-  bytecode provided by Holberton School.
+  bytecode provided by ALX.
 
 * **9. Fast alphabet**
   * [103-fast_alphabet.py](./103-fast_alphabet.py): Python program that prints the alphabet in
