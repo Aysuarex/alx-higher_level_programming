@@ -91,7 +91,7 @@ Prototypes for functions written in this project:
 
 * **9. ByteCode -> Python #4**
   * [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
-  bytecode provided by Holberton School.
+  bytecode provided by ALX.
 
 * **10. CPython #2: PyFloatObject**
   * [103-python.c](./103-python.c): C functions that print basic information
