@@ -114,7 +114,7 @@ Prototypes for functions written in this project:
   * An empty list is considered a palindrome.
   * Helper files:
     * [linked_lists.c](./linked_lists.c): C functions handling linked lists for
-    testing [13-is_palindrome.c](./13-is_palindrome.c) (provided by Holberton School).
+    testing [13-is_palindrome.c](./13-is_palindrome.c) (provided by ALX).
     * [lists.h](./lists.h): Header file containing definitions and prototypes for all types
     and functions used in [linked_lists.c](./linked_lists.c) and
     [13-insert_number.c](./13-insert_number.c).
