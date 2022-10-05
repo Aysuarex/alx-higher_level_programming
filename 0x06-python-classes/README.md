@@ -95,4 +95,4 @@ hiding.
 
 * **10. ByteCode -> Python #5**
   * [103-magic_class.py](./103-magic_class.py): Python function matching exactly a bytecode
-  provided by Holberton School.
+  provided by ALX.
