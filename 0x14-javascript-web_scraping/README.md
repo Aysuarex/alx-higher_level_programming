@@ -45,7 +45,6 @@ I was introduced to Javascript web scraping using the `request` and `fs` modules
   JSONPlaceholder API to compute the number of tasks completed per user ID.
   * Usage: `./6-completed_tasks.js https://jsonplaceholder.typicode.com/todos`.
 
-<!--
 * **7. Who was playing in this movie?**
   * [100-starwars_characters.js](./100-starwars_characters.js): JavaScript script
   that uses the Star Wars API to print all characters featured in a given movie.
@@ -56,9 +55,3 @@ I was introduced to Javascript web scraping using the `request` and `fs` modules
   that uses the Star Wars API to print all characters featured in a given movie in
   the same order as they are listed in the `characters` list of the `/films/` response.
   * Usage: `./101-starwars_characters.js <movie ID>`.
-
-* **9. Twitter Auth**
-  * [102-search_twitter.js](./102-search_twitter.js): JavaScript script that sends
-  a search request to the Twitter API with a given search string.
-  * Usage: `./102-search_twitter.js <consumer  key> <consumer secret> <search string>.
-  * Outputs 5 results in the format `[<Tweet ID>] <Tweet text> by <Tweet owner name>`. -->
