@@ -13,7 +13,7 @@ The three classes involved utilizing the following Python tools:
 * Class/static methods
 * Inheritance
 * File I/O
-* `args`/ `kwargs`
+* `args` / `kwargs`
 * JSON and CSV serialization/deserialization
 * Unittesting
 
